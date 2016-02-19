@@ -1,2 +1,4 @@
 # hello-world
-first parties
+first pratise
+
+Hi everyone, first pratise from china.
